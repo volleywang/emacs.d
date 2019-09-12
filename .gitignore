@@ -1,6 +1,7 @@
 /url/cache
 /.emacs.desktop
 /auto-save-list
+/network-security.data
 /.session
 /session.*
 /custom.el
@@ -12,11 +13,9 @@ CVS
 .*.lock
 /tramp
 /TODO
-/anything-c-adaptive-history
 /.org-id-locations
 cookies
 /newsticker
-/ac-comphist.dat
 \#*
 /elpa
 /elpa-*
@@ -46,3 +45,9 @@ site-lisp/package/
 /anaconda-mode/
 /.historian
 /.uptimes.el
+/rake.cache
+/plantuml.jar
+/magithub
+.cache/
+/forge-database.sqlite
+/transient
